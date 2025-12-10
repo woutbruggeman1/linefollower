@@ -1,17 +1,18 @@
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
-|1|ATmega32u4 LEONARDO|microcontroller|nieuw|  |1|         |
-|2|HC-Typ-05 Bluetooth module| communicatie|nieuw||1| |
-|3|DC 6V 500RPM metal gear motor|motor|nieuw||2| |
-|4|DRV8833 motor driver|H-brug|nieuw||1| |
+|1|ATmega32u4 LEONARDO|microcontroller|recup|/|1|/|
+|2|HC-Typ-05 Bluetooth module| communicatie|nieuw|4|1|4|
+|3|DC 6V 500RPM metal gear motor|motor|nieuw|13,27|2|13,27|
+|4|DRV8833 motor driver|H-brug|nieuw|2.78|1|2.78|
 |5|QTR-8A Reflectance Sensor Array|sensor|nieuw||1| |
 |6|Jumpwires M/F pack|draad|nieuw||1| |
 |7|Breadboard 400 punten|frame (elektronica montage)|nieuw||1| |
-|8|Ni-MH 3.7V 3500mAh batterijen|batterij|recup||2| |
+|8|Ni-MH 3.7V 3500mAh batterijen|batterij|recup|/|2|/|
 |9|OcioDual 2×18650 batterijhouder|batterijhouder|nieuw||1| |
 |10|IMREN Li-ion oplader|oplader|nieuw||1| |
 |11|DRV8833 motor driver (extra set)|microcontroller (kleine modules)|nieuw||3| |
 |12|Micro Metal Gearmotor Bracket |motor houder |nieuw||| |
 |13|Wheel 40x7mm |voorwiel |nieuw||2| |
+|14|pcb 15cm bij 9cm |pcb |recup|/|1|/|
 
 
