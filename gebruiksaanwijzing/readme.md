@@ -9,12 +9,18 @@ Ik maak gebruik van de HC-05 Bluetooth-module, waarmee verbinding kan worden gem
 
 #### commando's
 start / zorgt dat de auto begint te rijden
+
 stop / zorgt dat de auto stopt met rijden
+
 set power [0..255] / bepaalt de snelheid van de auto
-set Reverse factor [o..255] / bepaalt de achterwaartse snelheid van binnenste wiel in scherpe bochten
+
+
 set kp [0..] / bepaald de kp waarde van de pid regelaar
+
 set ki [0..] / bepaald de ki waarde van de pid regelaar
+
 set kd [0..] / bepaald de kd waarde van de pid regelaar
+
 calibrate / de sensoren worden gekalibreert op de zwarte en witte waarden.]  
 
 ### kalibratie
