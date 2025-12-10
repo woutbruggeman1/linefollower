@@ -1,30 +1,28 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-uitleg over het opladen of vervangen van de batterijen
+Voorzie de oplader van voeding en steek de batterijen in de oplader. Het opladen is voltooid als het lichtje groen wordt.
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+Ik maak gebruik van de HC-05 Bluetooth-module, waarmee verbinding kan worden gemaakt met een Android-smartphone. Op de smartphone moet je eerst een specifieke app installeren. Vervolgens verbind je via de Bluetooth-instellingen van de telefoon met de HC-05-module. Daarna open je de app en maak je daar ook verbinding. Zodra dit is voltooid, kun je via de app commando’s sturen naar de robot.
 
 #### commando's
-debug [on/off]  
-start  
-stop  
-set cycle [µs]  
-set power [0..255]  
-set diff [0..1]  
-set kp [0..]  
-set ki [0..]  
-set kd [0..]  
-calibrate black  
-calibrate white  
+start / zorgt dat de auto begint te rijden
+stop / zorgt dat de auto stopt met rijden
+set power [0..255] / bepaalt de snelheid van de auto
+set Reverse factor [o..255] / bepaalt de achterwaartse snelheid van binnenste wiel in scherpe bochten
+set kp [0..] / bepaald de kp waarde van de pid regelaar
+set ki [0..] / bepaald de ki waarde van de pid regelaar
+set kd [0..] / bepaald de kd waarde van de pid regelaar
+calibrate / de sensoren worden gekalibreert op de zwarte en witte waarden.]  
 
 ### kalibratie
-uitleg kalibratie  
+Om de sensor te kalibreren, plaats je deze eerst op een zwart vlak. Via de app op je smartphone geef je vervolgens het commando “calibrate black”. Doe daarna hetzelfde met een wit vlak en geef het commando “calibrate white”.
+Als alles correct is uitgevoerd, kun je via het commando “debug” controleren of de kalibratie gelukt is. Bij een wit vlak zie je dan ongeveer 6 lage waarden en bij een zwart vlak ongeveer 2 hoge waarden.
 
 ### settings
 De robot rijdt stabiel met volgende parameters:  
 
 ### start/stop button
-uitleg locatie + werking start/stop button
+starten en stoppen die je opnieuw met de app ... en je moet om te starten het commando run intypen en om te stoppen het commando stop
