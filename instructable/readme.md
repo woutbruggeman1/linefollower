@@ -4,7 +4,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
 
 Stap 1: Bestel alle componenten uit de Bill of Materials.
 
-##Stap 2: Componenten afzonderlijk testen.
+Stap 2: Componenten afzonderlijk testen.
 Test elke component afzonderlijk (motoren, sensor, H-brug, microcontroller, voeding) om zeker te zijn dat alles werkt voordat je begint met de montage.
 
 Stap 3: PCB layout voorbereiden.
@@ -20,7 +20,7 @@ Aan de sensoren soldeer je de draden die naar de microcontroller of H-brug gaan.
 Stap 6: Motoren monteren.
 Monteer en schroef de motoren vast in de motorhouders op de PCB.
 
-##Stap 7: Microcontroller bevestigen.
+Stap 7: Microcontroller bevestigen.
 Lijm de microcontroller op de batterijhouder en monteer deze batterijhouder op de PCB.
 
 Stap 8: Breadboard plaatsen.
