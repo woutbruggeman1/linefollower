@@ -1,7 +1,7 @@
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
 |1|ATmega32u4 LEONARDO|microcontroller|recup|/|1|/|
-|2|HC-Typ-05 Bluetooth module| communicatie|nieuw|4|1|4|
+|2|HC-05 Bluetooth module| communicatie|nieuw|4|1|4|
 |3|DC 6V 500RPM metal gear motor|motor|nieuw|6.63|2|13.26|
 |4|DRV8833 motor driver|H-brug|nieuw|2.78|1|2.78|
 |5|QTR-8A Reflectance Sensor Array|sensor|nieuw|12.35|1|12.35|
