@@ -9,21 +9,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: arduino leonardo
 
-motors: 
+motors: DC 6V 500RPM
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: 3500 mAh NiMH, oplaadbare batterij
 
-wireless communication:
+wireless communication: HC-05
 
-distance sensor - motors:
+distance sensor - motors: 80mm
 
 weight:
 
-speed: 
+speed: 0.14m/s
 
