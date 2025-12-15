@@ -4,7 +4,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 
 ![A description of my image](images/empty.png) 
 
-![Uploading IMG_3205 (1).jpeg…]()
+
 
   
 ## specifications
